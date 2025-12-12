@@ -1,0 +1,35 @@
+name: Update Google Scholar Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Atualiza 1x por dia
+  workflow_dispatch:      # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.x"
+
+    - name: Install dependencies
+      run: |
+        pip install scholarly svgwrite
+
+    - name: Generate scholar stats
+      run: |
+        python scripts/generate_scholar_svg.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add scholar-stats.svg
+        git commit -m "Update scholar stats" || echo "No changes"
+        git push
