@@ -20,3 +20,6 @@ My dream is to contribute with meaningful work that makes people’s lives bette
   <img height="90em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeisianeFernanda&layout=compact&theme=tokyonight" />
 
 </div>
+
+![Google Scholar](https://github.com/DeisianeFernanda/DeisianeFernanda/blob/main/scholar-stats.svg)
+
