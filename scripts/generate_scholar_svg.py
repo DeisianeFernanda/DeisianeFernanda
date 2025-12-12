@@ -1,7 +1,7 @@
 from scholarly import scholarly
 import svgwrite
 
-SCHOLAR_ID = "RamdUesAAAAJ&hl"
+SCHOLAR_ID = "RamdUesAAAAJ"
 
 # Buscar perfil
 author = scholarly.search_author_id(SCHOLAR_ID)
