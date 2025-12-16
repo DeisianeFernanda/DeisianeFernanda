@@ -13,6 +13,7 @@ My dream is to contribute with meaningful work that makes people’s lives bette
 
 ---
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=RamdUesAAAAJ)
+[![Pixilart](https://img.shields.io/badge/Pixilart-Pixel%20Art-ff69b4?style=for-the-badge&logo=pixiv)](https://www.pixilart.com/deisi93)
 
 
 <div align="center">
