@@ -12,6 +12,7 @@ Along my journey, curiosity became one of my strongest skills — and it’s exa
 My dream is to contribute with meaningful work that makes people’s lives better.
 
 ---
+[![Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=RamdUesAAAAJ)
 
 
 <div align="center">
@@ -21,6 +22,6 @@ My dream is to contribute with meaningful work that makes people’s lives bette
 
 </div>
 
-![Scholar stats](./scholar-stats.svg)
+
 
 
