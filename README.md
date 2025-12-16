@@ -7,6 +7,10 @@
 Along my journey, curiosity became one of my strongest skills — and it’s exactly what brought me into research and technology.
 
 🧬 I have experience in microbiology, Bioinformatics and scientific research, and I’m currently transitioning to new challenges, always motivated by learning and growth.
+<div align="center">
+  <img src="assets/gifs/bac_programing.gif" width="500"/>
+</div>
+assets/gifs/bac_programing.gif
 
 💡 I love projects that involve innovation, creativity, communities (microbial or human 😄) and exploring new possibilities.  
 My dream is to contribute with meaningful work that makes people’s lives better.
