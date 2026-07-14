@@ -1,6 +1,3 @@
-
-
-
 ## About me 🧑‍💻
 
 <img align="right" src="assets/gifs/bac_programing.gif" width="220"/>
